@@ -1,6 +1,6 @@
 # 🔬 Blood Cell Detection using YOLOv10
 
-![Blood Cell Detection](https://user-images.githubusercontent.com/your-image-placeholder.png)  
+ 
 
 ## 📌 Overview
 This is a **Blood Cell Detection** web app built using **YOLOv10** and **Streamlit**.  
